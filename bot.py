@@ -1,5 +1,5 @@
 # Copyright: Cryptix 2018.
-# Contact Developer on https://entwickler.cc (Thash#9999)
+# Contact Developer on https://entwickler.cc (Cryptix#9999)
 
 import discord
 import asyncio
